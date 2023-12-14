@@ -1,0 +1,26 @@
+ Monitoramento vs Observabilidade?
+
+ Monitoramento é o acompanhamento das camadas de TI (Aplicações, apis, banco de dados, etc), a medida que elas rodam em tempo real, e é fundamental para identificar incidenes  e atender aos SLA's esperados.
+ Tipos de monitoramento:
+*disponibilidade;
+*performance;
+*APM;
+*API management;
+*comportamento do usuário real; e
+*segurança.
+
+Observabilidade é a capacidade de inferir o estado de um ecossistema de ponta a ponta pelos seus outputs, ou seja, de responder qualquer questão sobre seu negócio, aplicações ou infraestrutura a qualquer momento, não importa quão complexos eles sejam. 
+
+Em outros termos, ela é um monitoring panorâmico, que abrange ambientes on-premise, híbridos e multicloud, aproveitando todos os dados dessas fontes em qualquer escala.
+
+Com isso, ela facilita a coleta de insights, a resposta a incidentes, o desenvolvimento e a inteligência da operação.
+
+A observability é baseada em três tipos de dados telemétricos: metrics, logs e traces. Juntos, eles são enviados pelas aplicações para um sistema de análise, onde são analisados e contextualizados, gerando insights. Há vários desafios técnicos envolvidos nessa tarefa, que requer a eliminação de silos de dados, a geração de correlações automáticas e a capacidade preditiva.
+
+A observabilidade vai além do monitoramento (mesmo que de infraestruturas complexas), ou melhor é uma evolução do monitoramento no contexto das infraestruturas modernas.
+
+Nas aplicações modernas, com muitos serviços sendo usados para fornecer a experiência do usuário, você não monitora mais a saúde dos serviços individuais porque ele é responsável pela maior parte da experiência do usuário. 
+
+Nesse cenário, importa mais que o usuário possa fazer o que ele precisa do que se uma instância de um serviço tem um problema. Para isso, você precisa estar atento ao sistema como um todo e à experiência do usuário, não apenas a cada componente dela. Nesse sentido, a Splunk compara a observabilidade não ao microscópio, e sim à claridade que permite ver sob o microscópio.
+
+A observabilidade tem a ver com a construção de visibilidade de todas as camada de negócio, dando a quem está nessas áreas maiores insights sobre problemas e user experience. Com isso, ela leva à criação de iniciativas estratégicas, além da mera resolução de incidentes.
